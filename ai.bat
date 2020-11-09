@@ -1,3 +1,3 @@
 @echo off
-python "G:\python\pythonkhazana\python-ai.py"
+python "path\python-ai.py"
 pause
